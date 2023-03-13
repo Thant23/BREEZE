@@ -1,0 +1,13 @@
+.welcome{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hr{
+    width: 50%;
+    height: 3px;
+    margin: auto;
+    margin-bottom: 100px;
+    background-color: gray;
+}

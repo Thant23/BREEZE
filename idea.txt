@@ -1,13 +1,6 @@
 Research:
 For what?
 > for manga reader and other
->Shojo (idealistic romance)
->Josei (realistic romance)
->Shonen (young boy protagonist)
->Gekiga (dramatic and mature)
->Adventure
->Comedy
->Sports
 
 What they want?
 > coding with burmese
@@ -21,5 +14,7 @@ Similar website:
 ++++++++++++++++++++++++++++++++++++++++
 
 Colour palette:
-#121212 #1e1e1e #292929 #353535
 
+
+what I need to learn:
+1. searching bar
